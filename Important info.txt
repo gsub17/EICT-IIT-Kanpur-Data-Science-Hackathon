@@ -1,7 +1,0 @@
-1. Use Gradient boosting classifier 
-
-
-2. Hackathon repository
-https://github.com/HackathonIITK/hackathon_iitk_eict-gsub17
-
-3.https://www.kaggle.com/salmamaamouri/weather-prediction-regression-neural-model
